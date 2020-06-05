@@ -215,18 +215,17 @@ bindsym --release Shift+Print exec scrot -s 'screenshot_%Y%m%d_%H%M%S.png' -e 'm
 # Startup Applications
 exec urxvt
 exec ~/.config/polybar/launch.sh
-exec compton -f
+exec_always compton -c -i 0.7 
 exec mpd
 
 #start dmenu/rofi (a program launcher)
 #bindsym $mod+d exec dmenu_run #dmenu is disabled
 bindsym $mod+d exec /home/ashwinchandran/.config/i3/rofi-config.sh
-
+bindsym $mod+n exec /home/ashwinchandran/Downloads/turtl-linux64/turtl/./turtl
 #i3lock
 bindsym $mod+shift+x exec /home/ashwinchandran/.config/i3/i3lock-config.sh
 
 
 #Wallpaper
-exec_always hsetroot -cover /home/ashwinchandran/Pictures/totoro4.jpg  
- 
-
+exec_always hsetroot -cover /home/ashwinchandran/Pictures/nature6.jpg 
+#-contrast 0.7
