@@ -1,0 +1,53 @@
+sw_volume: 75
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: stop
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:playlist/Fitz and the Tantrums - Out of My League (Audio).mp3
+1:playlist/_City of Stars_ (Duet ft. Ryan Gosling_ Emma Stone.mp3
+2:playlist/[HQ Classic] Bohemian Rhapsody - Queen 320kbps.mp3
+3:playlist/[Preview]_Axwell_Λ_Ingrosso-On_My_Way_HQ_.mp3
+4:playlist/Hey Soul Sister.mp3
+5:playlist/audio.mp3
+6:playlist/08. I Cry (www.SongsLover.Pk).mp3
+7:playlist/10. Galantis - Runaway (U & I).mp3
+8:playlist/Avicii  Always On The Run (True) Bonus Track (New).mp3
+9:playlist/Eminem_-_Superman_(KuttyWeb.com).mp3
+10:playlist/Florence   The Machine - Hunger.mp3
+11:playlist/Green day - Time of your life with lyrics.mp3
+12:playlist/Gorillaz - On Melancholy Hill (Official Video) (1).mp3
+13:playlist/Johnny Cash - Hurt (Official Video) HD.mp3
+14:playlist/03-bonfire.mp3
+15:music videos/[Drumstep] - Excision & Pegboard Nerds - Bring The Madness (feat. Mayor Apeshit) [Monstercat].mp4
+16:music videos/Bleed It Out (Official Video) - Linkin Park.mp4
+17:music videos/Bon Jovi - You Give Love A Bad Name.mp4
+18:music videos/Imagine Dragons - It's Time.mp4
+19:music videos/Linkin Park - The Messenger (Music Video).mp4
+20:music videos/Maroon 5 - Sugar.mp4
+21:music videos/Marshmello - Alone (Official Music Video).mp4
+22:music videos/Martin Garrix & Third Party - Lions In The Wild [Official Video].mp4
+23:music videos/Mike Posner - I Took A Pill In Ibiza (Seeb Remix) (Explicit).mp4
+24:music videos/Numb (Official Video) - Linkin Park.mp4
+25:music videos/Oasis Wonderwall.mp4
+26:music videos/Of Monsters And Men - Little Talks (Official Video).mp4
+27:music videos/OneRepublic - All The Right Moves.mp4
+28:music videos/OneRepublic - Wherever I Go (Official Video).mp4
+29:music videos/Sia - Cheap Thrills (Lyric Video) ft. Sean Paul.mp4
+30:music videos/Sia Greatest.mp4
+31:music videos/SKRILLEX   ALVIN RISK - TRY IT OUT [OFFICIAL VIDEO].mp4
+32:music videos/Bon Jovi - It's My Life.mp4
+33:music videos/The Weeknd - Starboy ft. Daft Punk.mp4
+34:music videos/Bebe Rexha - I Got You [Official Music Video].mp4
+35:music videos/For_Hawwa_and_Aimina-1.MP4
+36:music videos/What I've Done (Official Video) - Linkin Park.mp4
+37:music videos/videoplayback.3gp
+38:music videos/The Magician - 'SHY' (feat. Brayton Bowman).mp4
+39:music videos/Imagine Dragons - Demons (Official).mp4
+playlist_end
