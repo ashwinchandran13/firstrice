@@ -38,6 +38,7 @@ i3-gaps (which gave gaps between windows XD).
 - [hsetroot](https://github.com/himdel/hsetroot) for setting wallpaper
 - [i3lock](https://github.com/i3/i3lock) for screen lock while AFK
 - [URxvt](https://linux.die.net/man/1/urxvt) terminal which is a highly customizable terminal (Mostly installed by default in debian)
+- [zsh](https://www.zsh.org/) is an interactive shell which is actively used and has a great advantage over default bash
 - [mpd](https://www.musicpd.org/) music server which hosts data from your music directory 
 - [ncmpcpp](https://wiki.archlinux.org/index.php/Ncmpcpp) is music client for mpd which runs in terminal 
 - [ranger](https://github.com/ranger/ranger) file manager
