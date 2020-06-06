@@ -6,7 +6,7 @@ My **first** linux rice using i3-gaps WM
 Happened to surf the great giver *reddit* where I found a post on a sub-reddit named [r/unixporn](https://www.reddit.com/r/unixporn/)
 which at the time I had no clue what it was about but with a very catchy screenshot of a system interface. From there I just started
 surf stuff up from the post details about screenshots. Among them **Tiling Window Managers** was the term often defined with different sets of 
-answers. You see when a normal noob linux user who has just installed Ubuntu or Mint in his pc sees only one desktop enviroment namely
+variants(i3wm,openbox,i3gaps etc). You see when a normal noob linux user who has just installed Ubuntu or Mint in his pc sees only one desktop enviroment namely
 GNOME, Cinnamon, KDE Plasma, Mate etc. So the term window manager is just a highly configurable desktop environment available as packages
 just waiting to be get installed in your systems and to be played with as you like without even removing your default Desktop Environment.
 
